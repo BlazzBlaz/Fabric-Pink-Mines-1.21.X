@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "the-pink-mines:block/kunzite_block"
+  }
+}
