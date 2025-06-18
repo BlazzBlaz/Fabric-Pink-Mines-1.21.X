@@ -1,6 +1,7 @@
 package net.blaz.pinkmines;
 
 import net.blaz.pinkmines.block.ModBlocks;
+import net.blaz.pinkmines.item.ModItemGroups;
 import net.blaz.pinkmines.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,6 +15,8 @@ public class ThePinkMines implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 	}

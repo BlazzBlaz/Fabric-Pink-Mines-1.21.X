@@ -1,5 +1,10 @@
 {
   "item.the-pink_mines.kunzite": "Kunzite",
 
-  "block.the-pink-mines.kunzite_block": "Block of Kunzite"
+  "block.the-pink-mines.kunzite_block": "Block of Kunzite",
+  "block.the-pink-mines.kunzite_ore": "Kunzite Ore",
+  "block.the-pink-mines.deepslate_kunzite_ore": "Deepslate Kunzite Ore",
+
+  "itemgroup.the-pink-mines.pink_mines_items": "Pink Mines Items",
+  "itemgroup.the-pink-mines.pink_mines_blocks": "Pink Mines Blocks"
 }

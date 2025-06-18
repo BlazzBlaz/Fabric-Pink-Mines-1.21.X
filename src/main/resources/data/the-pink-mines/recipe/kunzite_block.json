@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "the-pink-mines:kunzite"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###",
+  ],
+  "result": {
+    "count": 1,
+    "id": "the-pink-mines:kunzite_block"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "the-pink-mines:kunzite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "the-pink-mines:kunzite"
+  }
+}
